@@ -1,0 +1,1 @@
+D:\3DS\PAM2\ExemploHttp\ExemploHttp\ExemploHttp.csproj;x64
